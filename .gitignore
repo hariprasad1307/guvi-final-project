@@ -23,9 +23,6 @@ logs/
 .DS_Store
 Thumbs.db
 
-# Docker files
-Dockerfile
-docker-compose.yml
 
 # Jenkins files
 Jenkinsfile
