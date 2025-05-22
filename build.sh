@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="nadinc/guvi_final_prj"
+IMAGE_NAME="hari1307/devops-prj"
 VERSION=$(date +%Y%m%d_%H%M%S)
 TAG="v${VERSION}"
 
